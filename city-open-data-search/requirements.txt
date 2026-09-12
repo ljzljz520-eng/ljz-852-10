@@ -1,0 +1,2 @@
+# 本项目仅使用 Python 标准库（sqlite3 / wsgiref / json / csv …），
+# 无需安装任何第三方依赖。要求 Python >= 3.8。

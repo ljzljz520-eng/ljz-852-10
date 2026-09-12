@@ -1,0 +1,633 @@
+[
+  {
+    "id": "POL-2026-003",
+    "doc_type": "policy",
+    "department": "交通运输局",
+    "published_date": "2026-04-18",
+    "tags": [
+      "交通",
+      "停车",
+      "收费管理"
+    ],
+    "title": "城市机动车停车管理条例（2026 年修订）",
+    "summary": "规范道路停车泊位设置、收费定价与错峰共享机制，明确老旧小区周边夜间限时免费泊位，并建立停车设施备案与信息公开制度。",
+    "content": "条例共七章四十二条，涵盖停车规划、建设、运营与执法。新增条款要求公共停车场实时公布空余泊位数据，鼓励机关企事业单位停车场夜间向周边居民开放。",
+    "source_url": "https://www.example-city.gov.cn/policy/POL-2026-003",
+    "files": [
+      {
+        "filename": "停车管理条例-2026修订.pdf",
+        "format": "pdf",
+        "size_bytes": 1245000,
+        "url": "https://data.example-city.gov.cn/files/POL-2026-003/停车管理条例-2026修订.pdf",
+        "checksum": "e5d23d2c7055f3e93f9e7278040913ca"
+      },
+      {
+        "filename": "政策解读一图读懂.png",
+        "format": "png",
+        "size_bytes": 380000,
+        "url": "https://data.example-city.gov.cn/files/POL-2026-003/政策解读一图读懂.png",
+        "checksum": "0d897934f11075b67a7c7eb86d14ea86"
+      }
+    ]
+  },
+  {
+    "id": "POL-2025-011",
+    "doc_type": "policy",
+    "department": "教育局",
+    "published_date": "2025-06-30",
+    "tags": [
+      "教育",
+      "学区",
+      "招生"
+    ],
+    "title": "义务教育阶段学校学区划分调整方案（2025 学年）",
+    "summary": "结合新建学校投用与人口流动情况，对主城区 24 所小学、11 所初中的施教区进行微调，并公布过渡期入学政策。",
+    "content": "方案遵循就近入学与学位供需平衡原则，附各学区边界文字说明与示意图。2025 年 9 月 1 日起执行，设置一年过渡期。",
+    "source_url": "https://www.example-city.gov.cn/policy/POL-2025-011",
+    "files": [
+      {
+        "filename": "学区划分调整方案.pdf",
+        "format": "pdf",
+        "size_bytes": 2860000,
+        "url": "https://data.example-city.gov.cn/files/POL-2025-011/学区划分调整方案.pdf",
+        "checksum": "5c10252a04bf150c73a26033182368be"
+      },
+      {
+        "filename": "学区边界示意图.zip",
+        "format": "zip",
+        "size_bytes": 15400000,
+        "url": "https://data.example-city.gov.cn/files/POL-2025-011/学区边界示意图.zip",
+        "checksum": "c19ccd66dac4299b1dfe05f180027762"
+      }
+    ]
+  },
+  {
+    "id": "POL-2024-007",
+    "doc_type": "policy",
+    "department": "生态环境局",
+    "published_date": "2024-03-15",
+    "tags": [
+      "环境",
+      "空气质量",
+      "减排"
+    ],
+    "title": "大气污染防治攻坚行动方案（2024—2025 年）",
+    "summary": "围绕 PM2.5 与臭氧协同控制，部署工业源、移动源、扬尘源治理任务，明确到 2025 年空气质量优良天数比率达到 88%。",
+    "content": "方案提出淘汰老旧柴油货车、推进重点行业超低排放改造、强化工地扬尘在线监控等 28 项措施。",
+    "source_url": "https://www.example-city.gov.cn/policy/POL-2024-007",
+    "files": [
+      {
+        "filename": "大气污染防治攻坚行动方案.pdf",
+        "format": "pdf",
+        "size_bytes": 1980000,
+        "url": "https://data.example-city.gov.cn/files/POL-2024-007/大气污染防治攻坚行动方案.pdf",
+        "checksum": "a43347dc57bb248b4f859a1b5aff9533"
+      }
+    ]
+  },
+  {
+    "id": "POL-2023-002",
+    "doc_type": "policy",
+    "department": "住房和城乡建设局",
+    "published_date": "2023-01-20",
+    "tags": [
+      "住房",
+      "老旧小区",
+      "改造"
+    ],
+    "title": "城镇老旧小区改造三年行动计划",
+    "summary": "2023—2025 年计划改造老旧小区 312 个，重点完善水电气路、加装电梯、增补停车与养老托育设施。",
+    "content": "计划明确改造内容清单、资金分担机制与居民参与程序，改造方案须经过双三分之二业主同意。",
+    "source_url": "https://www.example-city.gov.cn/policy/POL-2023-002",
+    "files": [
+      {
+        "filename": "老旧小区改造三年行动计划.pdf",
+        "format": "pdf",
+        "size_bytes": 2240000,
+        "url": "https://data.example-city.gov.cn/files/POL-2023-002/老旧小区改造三年行动计划.pdf",
+        "checksum": "4e5219579c4759f7eab5c83bc5ed1da8"
+      },
+      {
+        "filename": "改造小区清单.xlsx",
+        "format": "xlsx",
+        "size_bytes": 96000,
+        "url": "https://data.example-city.gov.cn/files/POL-2023-002/改造小区清单.xlsx",
+        "checksum": "d3631876078d186ab0d3fac599fe773a"
+      }
+    ]
+  },
+  {
+    "id": "POL-2022-014",
+    "doc_type": "policy",
+    "department": "卫生健康委员会",
+    "published_date": "2022-11-08",
+    "tags": [
+      "卫生",
+      "养老",
+      "医疗服务"
+    ],
+    "title": "医养结合服务体系建设实施方案",
+    "summary": "推动医疗机构与养老机构签约合作，建设社区医养结合服务中心，到 2025 年每千名老年人拥有养老床位 45 张。",
+    "content": "方案包括家庭病床、上门护理、安宁疗护试点等内容，并建立医养结合机构等级评定制度。",
+    "source_url": "https://www.example-city.gov.cn/policy/POL-2022-014",
+    "files": [
+      {
+        "filename": "医养结合实施方案.pdf",
+        "format": "pdf",
+        "size_bytes": 1560000,
+        "url": "https://data.example-city.gov.cn/files/POL-2022-014/医养结合实施方案.pdf",
+        "checksum": "9ecc901c4b4a83fd9c31cbe9c159a1a5"
+      }
+    ]
+  },
+  {
+    "id": "MAP-2026-001",
+    "doc_type": "map",
+    "department": "自然资源和规划局",
+    "published_date": "2026-02-10",
+    "tags": [
+      "地图",
+      "国土空间",
+      "规划"
+    ],
+    "title": "市国土空间总体规划（2021—2035 年）成果图集",
+    "summary": "包含市域国土空间总体格局、生态保护红线、永久基本农田、城镇开发边界等法定规划成果图件 42 幅。",
+    "content": "图集提供在线浏览与 GeoJSON/Shapefile 矢量数据下载，坐标系为 CGCS2000。",
+    "source_url": "https://www.example-city.gov.cn/map/MAP-2026-001",
+    "files": [
+      {
+        "filename": "国土空间规划图集.pdf",
+        "format": "pdf",
+        "size_bytes": 48600000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2026-001/国土空间规划图集.pdf",
+        "checksum": "3046efe03d067eeb3d823d2e318f96bc"
+      },
+      {
+        "filename": "三条控制线.shp.zip",
+        "format": "zip",
+        "size_bytes": 8900000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2026-001/三条控制线.shp.zip",
+        "checksum": "2d3d4da574ea53ee8dcc57ba3c11dfa2"
+      },
+      {
+        "filename": "规划分区.geojson",
+        "format": "geojson",
+        "size_bytes": 2300000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2026-001/规划分区.geojson",
+        "checksum": "c1ef5942b459c52c2f45fad3c41a41c6"
+      }
+    ]
+  },
+  {
+    "id": "MAP-2025-006",
+    "doc_type": "map",
+    "department": "交通运输局",
+    "published_date": "2025-09-01",
+    "tags": [
+      "地图",
+      "交通",
+      "地铁",
+      "公交"
+    ],
+    "title": "城市轨道交通线网运营图（2025 年版）",
+    "summary": "收录已运营地铁线路 9 条、站点 198 座及与公交枢纽、火车站的换乘关系，提供无障碍设施标注。",
+    "content": "随 5 号线二期开通同步更新，附首末班车时刻与线网票价图。",
+    "source_url": "https://www.example-city.gov.cn/map/MAP-2025-006",
+    "files": [
+      {
+        "filename": "轨道交通线网图-2025.pdf",
+        "format": "pdf",
+        "size_bytes": 6720000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2025-006/轨道交通线网图-2025.pdf",
+        "checksum": "a6710a95fdb67e02f6a5672ec2c7c531"
+      },
+      {
+        "filename": "站点列表.csv",
+        "format": "csv",
+        "size_bytes": 88000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2025-006/站点列表.csv",
+        "checksum": "6802df9c7765ca19aa783a469ca2138f"
+      }
+    ]
+  },
+  {
+    "id": "MAP-2024-009",
+    "doc_type": "map",
+    "department": "文化和旅游局",
+    "published_date": "2024-08-16",
+    "tags": [
+      "地图",
+      "旅游",
+      "公共文化"
+    ],
+    "title": "全域旅游导览图与公共文化设施分布图",
+    "summary": "标注 A 级景区、博物馆、图书馆、文化馆、城市书房等设施点位与开放信息，支持扫码导航。",
+    "content": "数据每季度更新，提供在线地图与开放 API 接口。",
+    "source_url": "https://www.example-city.gov.cn/map/MAP-2024-009",
+    "files": [
+      {
+        "filename": "全域旅游导览图.pdf",
+        "format": "pdf",
+        "size_bytes": 12300000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2024-009/全域旅游导览图.pdf",
+        "checksum": "d2dc4e224942d341e4f0365775e96fc3"
+      },
+      {
+        "filename": "文化设施点位.csv",
+        "format": "csv",
+        "size_bytes": 210000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2024-009/文化设施点位.csv",
+        "checksum": "43d4143dd7c88ad3f832f188a06fe2a9"
+      }
+    ]
+  },
+  {
+    "id": "MAP-2023-004",
+    "doc_type": "map",
+    "department": "住房和城乡建设局",
+    "published_date": "2023-05-22",
+    "tags": [
+      "地图",
+      "绿地",
+      "公园"
+    ],
+    "title": "城市公园绿地服务半径覆盖分析图",
+    "summary": "基于 500 米服务半径分析建成区公园绿地覆盖情况，识别覆盖盲区 17 处，为绿地系统规划提供依据。",
+    "content": "分析采用 2022 年国土变更调查数据与人口网格数据。",
+    "source_url": "https://www.example-city.gov.cn/map/MAP-2023-004",
+    "files": [
+      {
+        "filename": "公园绿地覆盖分析图.pdf",
+        "format": "pdf",
+        "size_bytes": 9150000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2023-004/公园绿地覆盖分析图.pdf",
+        "checksum": "16f226babca22e48f549dd4a76fb71d3"
+      },
+      {
+        "filename": "覆盖盲区.shp.zip",
+        "format": "zip",
+        "size_bytes": 1100000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2023-004/覆盖盲区.shp.zip",
+        "checksum": "fdd5bf0612f27f9a7f516948ee1b0c67"
+      }
+    ]
+  },
+  {
+    "id": "MAP-2022-002",
+    "doc_type": "map",
+    "department": "生态环境局",
+    "published_date": "2022-07-19",
+    "tags": [
+      "地图",
+      "噪声",
+      "环境"
+    ],
+    "title": "中心城区声环境功能区划图",
+    "summary": "划定 0—4 类声环境功能区，明确各区域昼夜噪声限值，作为噪声执法与规划环评依据。",
+    "content": "区划图随城市开发边界调整每五年修订一次。",
+    "source_url": "https://www.example-city.gov.cn/map/MAP-2022-002",
+    "files": [
+      {
+        "filename": "声环境功能区划图.pdf",
+        "format": "pdf",
+        "size_bytes": 7480000,
+        "url": "https://data.example-city.gov.cn/files/MAP-2022-002/声环境功能区划图.pdf",
+        "checksum": "75c7414a3d26be4b914541b4edbbad62"
+      }
+    ]
+  },
+  {
+    "id": "STA-2026-002",
+    "doc_type": "statistics",
+    "department": "统计局",
+    "published_date": "2026-03-05",
+    "tags": [
+      "统计",
+      "人口",
+      "年度"
+    ],
+    "title": "2025 年国民经济和社会发展统计公报",
+    "summary": "公布 2025 年全市常住人口、GDP、产业结构、居民收入、教育卫生等核心统计数据。",
+    "content": "2025 年末常住人口 1286.4 万人，地区生产总值 2.41 万亿元，城镇居民人均可支配收入 78 432 元。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2026-002",
+    "files": [
+      {
+        "filename": "2025统计公报.pdf",
+        "format": "pdf",
+        "size_bytes": 3260000,
+        "url": "https://data.example-city.gov.cn/files/STA-2026-002/2025统计公报.pdf",
+        "checksum": "1a554914113c7876a2ab403b4b3cb640"
+      },
+      {
+        "filename": "主要指标.xlsx",
+        "format": "xlsx",
+        "size_bytes": 145000,
+        "url": "https://data.example-city.gov.cn/files/STA-2026-002/主要指标.xlsx",
+        "checksum": "89631f8205ba7c078a74db20fa97d4be"
+      },
+      {
+        "filename": "分区县数据.csv",
+        "format": "csv",
+        "size_bytes": 96000,
+        "url": "https://data.example-city.gov.cn/files/STA-2026-002/分区县数据.csv",
+        "checksum": "6830fca09b784716425d67c1a21e18a2"
+      }
+    ]
+  },
+  {
+    "id": "STA-2025-008",
+    "doc_type": "statistics",
+    "department": "统计局",
+    "published_date": "2025-04-11",
+    "tags": [
+      "统计",
+      "季度",
+      "经济"
+    ],
+    "title": "2025 年一季度经济运行情况统计表",
+    "summary": "包含地区生产总值、规上工业增加值、固定资产投资、社会消费品零售总额等季度指标及增速。",
+    "content": "一季度 GDP 同比增长 5.8%，高技术制造业增加值增长 12.3%。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2025-008",
+    "files": [
+      {
+        "filename": "2025Q1经济运行统计表.xlsx",
+        "format": "xlsx",
+        "size_bytes": 78000,
+        "url": "https://data.example-city.gov.cn/files/STA-2025-008/2025Q1经济运行统计表.xlsx",
+        "checksum": "faff0b95368b94554d383d452d7e6fd8"
+      },
+      {
+        "filename": "指标说明.pdf",
+        "format": "pdf",
+        "size_bytes": 420000,
+        "url": "https://data.example-city.gov.cn/files/STA-2025-008/指标说明.pdf",
+        "checksum": "b577bb2cb0aa3c109f3620333726f0bf"
+      }
+    ]
+  },
+  {
+    "id": "STA-2024-012",
+    "doc_type": "statistics",
+    "department": "教育局",
+    "published_date": "2024-10-25",
+    "tags": [
+      "统计",
+      "教育",
+      "学校"
+    ],
+    "title": "2023—2024 学年教育事业统计年报",
+    "summary": "汇总各级各类学校数量、在校生数、专任教师数、大班额比例等教育统计指标。",
+    "content": "全市共有中小学 862 所，在校生 132.6 万人，义务教育巩固率 99.4%。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2024-012",
+    "files": [
+      {
+        "filename": "教育事业统计年报.xlsx",
+        "format": "xlsx",
+        "size_bytes": 320000,
+        "url": "https://data.example-city.gov.cn/files/STA-2024-012/教育事业统计年报.xlsx",
+        "checksum": "9566cf3229b47b49a1e2621c6d84e6df"
+      },
+      {
+        "filename": "分学校明细.csv",
+        "format": "csv",
+        "size_bytes": 1840000,
+        "url": "https://data.example-city.gov.cn/files/STA-2024-012/分学校明细.csv",
+        "checksum": "b2ae235b330b207a101ddba7075531af"
+      }
+    ]
+  },
+  {
+    "id": "STA-2024-005",
+    "doc_type": "statistics",
+    "department": "卫生健康委员会",
+    "published_date": "2024-06-14",
+    "tags": [
+      "统计",
+      "卫生",
+      "医疗资源"
+    ],
+    "title": "2023 年医疗卫生资源与医疗服务统计表",
+    "summary": "公布医疗卫生机构数、床位数、执业（助理）医师数、总诊疗人次等年度数据。",
+    "content": "全市医疗卫生机构 5 214 个，实有床位 9.8 万张，年总诊疗 1.62 亿人次。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2024-005",
+    "files": [
+      {
+        "filename": "卫生统计表-2023.xlsx",
+        "format": "xlsx",
+        "size_bytes": 156000,
+        "url": "https://data.example-city.gov.cn/files/STA-2024-005/卫生统计表-2023.xlsx",
+        "checksum": "1b327d21b10ec50bd3a121ce3e4efe91"
+      }
+    ]
+  },
+  {
+    "id": "STA-2023-010",
+    "doc_type": "statistics",
+    "department": "生态环境局",
+    "published_date": "2023-04-28",
+    "tags": [
+      "统计",
+      "空气质量",
+      "环境监测"
+    ],
+    "title": "2022 年环境质量状况统计表",
+    "summary": "包含空气质量六项污染物年均浓度、优良天数、地表水断面水质、声环境监测结果。",
+    "content": "2022 年 PM2.5 年均浓度 32 微克/立方米，空气质量优良天数比率 85.2%。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2023-010",
+    "files": [
+      {
+        "filename": "环境质量统计-2022.xlsx",
+        "format": "xlsx",
+        "size_bytes": 132000,
+        "url": "https://data.example-city.gov.cn/files/STA-2023-010/环境质量统计-2022.xlsx",
+        "checksum": "887194167bb62d2e7450feee1ca7f639"
+      },
+      {
+        "filename": "监测点位.csv",
+        "format": "csv",
+        "size_bytes": 64000,
+        "url": "https://data.example-city.gov.cn/files/STA-2023-010/监测点位.csv",
+        "checksum": "5964d21f591bbd71dd538a6cb3ce2e18"
+      }
+    ]
+  },
+  {
+    "id": "STA-2022-006",
+    "doc_type": "statistics",
+    "department": "交通运输局",
+    "published_date": "2022-09-30",
+    "tags": [
+      "统计",
+      "交通",
+      "出行"
+    ],
+    "title": "2021 年居民出行调查主要数据公报",
+    "summary": "公布居民日均出行次数、出行方式结构、通勤时耗等调查结果，为交通规划提供基础数据。",
+    "content": "全市居民日均出行 2.31 次，公共交通分担率 38.6%，平均通勤时间 39 分钟。",
+    "source_url": "https://www.example-city.gov.cn/stats/STA-2022-006",
+    "files": [
+      {
+        "filename": "居民出行调查公报.pdf",
+        "format": "pdf",
+        "size_bytes": 2050000,
+        "url": "https://data.example-city.gov.cn/files/STA-2022-006/居民出行调查公报.pdf",
+        "checksum": "124088f9071f9a158483dca9737af135"
+      },
+      {
+        "filename": "交叉分析表.xlsx",
+        "format": "xlsx",
+        "size_bytes": 268000,
+        "url": "https://data.example-city.gov.cn/files/STA-2022-006/交叉分析表.xlsx",
+        "checksum": "b0db772f624000922e65512774590bcd"
+      }
+    ]
+  },
+  {
+    "id": "PDF-2026-001",
+    "doc_type": "pdf_attachment",
+    "department": "统计局",
+    "published_date": "2026-01-15",
+    "tags": [
+      "PDF附件",
+      "人口",
+      "普查"
+    ],
+    "title": "第七次全国人口普查主要数据公报（本市卷）PDF 附件",
+    "summary": "人口普查公报 PDF 原件元数据：含总人口、年龄结构、受教育程度、城乡分布等章节，共 46 页。",
+    "content": "附件由统计局普查中心扫描归档，分辨率 300dpi，已做 OCR 文字识别，可全文检索。",
+    "source_url": "https://www.example-city.gov.cn/attach/PDF-2026-001",
+    "files": [
+      {
+        "filename": "人口普查公报-本市卷.pdf",
+        "format": "pdf",
+        "size_bytes": 18700000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2026-001/人口普查公报-本市卷.pdf",
+        "checksum": "f74b680c9fff9a9e60a19227f39d5d35"
+      }
+    ]
+  },
+  {
+    "id": "PDF-2025-004",
+    "doc_type": "pdf_attachment",
+    "department": "自然资源和规划局",
+    "published_date": "2025-05-20",
+    "tags": [
+      "PDF附件",
+      "规划",
+      "公示"
+    ],
+    "title": "控制性详细规划公示图纸 PDF 附件包（2025 年第二批）",
+    "summary": "收录 12 个街坊控规公示图纸 PDF，含用地布局图、图则与公示说明，公示期 30 天。",
+    "content": "附件按街坊编号命名，公示意见反馈渠道见公示说明末页。",
+    "source_url": "https://www.example-city.gov.cn/attach/PDF-2025-004",
+    "files": [
+      {
+        "filename": "A-03街坊控规图则.pdf",
+        "format": "pdf",
+        "size_bytes": 5600000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2025-004/A-03街坊控规图则.pdf",
+        "checksum": "01b42422712e4d148c381b835277a02c"
+      },
+      {
+        "filename": "B-11街坊控规图则.pdf",
+        "format": "pdf",
+        "size_bytes": 4900000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2025-004/B-11街坊控规图则.pdf",
+        "checksum": "ac5f4227489015e7253216b64d6a7378"
+      },
+      {
+        "filename": "公示说明.pdf",
+        "format": "pdf",
+        "size_bytes": 780000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2025-004/公示说明.pdf",
+        "checksum": "3a937e0ec5dbfd33801a532f6017194d"
+      }
+    ]
+  },
+  {
+    "id": "PDF-2024-003",
+    "doc_type": "pdf_attachment",
+    "department": "住房和城乡建设局",
+    "published_date": "2024-09-09",
+    "tags": [
+      "PDF附件",
+      "住房",
+      "保障房"
+    ],
+    "title": "公共租赁住房保障资格审核结果公示 PDF 附件（2024 年第九批）",
+    "summary": "公示 2024 年第九批公租房资格审核通过家庭名单及轮候顺序，PDF 原件含异议反馈方式。",
+    "content": "公示期 7 个工作日，名单已做身份证号脱敏处理。",
+    "source_url": "https://www.example-city.gov.cn/attach/PDF-2024-003",
+    "files": [
+      {
+        "filename": "公租房资格审核公示-第9批.pdf",
+        "format": "pdf",
+        "size_bytes": 2340000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2024-003/公租房资格审核公示-第9批.pdf",
+        "checksum": "ecdd1e5f86a1a8d5ed18d73d3f097ed0"
+      }
+    ]
+  },
+  {
+    "id": "PDF-2023-008",
+    "doc_type": "pdf_attachment",
+    "department": "生态环境局",
+    "published_date": "2023-12-01",
+    "tags": [
+      "PDF附件",
+      "环评",
+      "公示"
+    ],
+    "title": "重点建设项目环境影响报告书批复 PDF 附件汇编（2023 年度）",
+    "summary": "汇编 2023 年度 36 个重点项目环评批复文件 PDF 扫描件，按项目编号排序并附索引目录。",
+    "content": "附件来源于行政审批档案数字化成果，可供公众依申请查阅原件。",
+    "source_url": "https://www.example-city.gov.cn/attach/PDF-2023-008",
+    "files": [
+      {
+        "filename": "环评批复汇编-2023.pdf",
+        "format": "pdf",
+        "size_bytes": 62400000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2023-008/环评批复汇编-2023.pdf",
+        "checksum": "cd7a7c2f162c2c972b575b2bdfe4b674"
+      },
+      {
+        "filename": "项目索引.csv",
+        "format": "csv",
+        "size_bytes": 18000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2023-008/项目索引.csv",
+        "checksum": "19a90deff0655956e495eb4ee3828892"
+      }
+    ]
+  },
+  {
+    "id": "PDF-2022-005",
+    "doc_type": "pdf_attachment",
+    "department": "文化和旅游局",
+    "published_date": "2022-04-27",
+    "tags": [
+      "PDF附件",
+      "文物",
+      "保护"
+    ],
+    "title": "市级文物保护单位名录及保护范围图则 PDF 附件",
+    "summary": "收录 128 处市级文物保护单位名录、简介与保护范围图则 PDF，含建设控制地带说明。",
+    "content": "图则按 1:2000 比例尺绘制，可与国土空间规划一张图叠加使用。",
+    "source_url": "https://www.example-city.gov.cn/attach/PDF-2022-005",
+    "files": [
+      {
+        "filename": "文保单位名录.pdf",
+        "format": "pdf",
+        "size_bytes": 9860000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2022-005/文保单位名录.pdf",
+        "checksum": "7a806c6877ed802692bc62dee7dd1118"
+      },
+      {
+        "filename": "保护范围图则.pdf",
+        "format": "pdf",
+        "size_bytes": 34500000,
+        "url": "https://data.example-city.gov.cn/files/PDF-2022-005/保护范围图则.pdf",
+        "checksum": "6ac3747e03d764dd32ffc95ce7c4f9f8"
+      }
+    ]
+  }
+]
